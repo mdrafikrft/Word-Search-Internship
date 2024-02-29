@@ -13,55 +13,73 @@ MonoBehaviour:
   m_Name: Puzzle1
   m_EditorClassIdentifier: 
   timeInSeconds: 0
-  Rows: 6
-  Columns: 6
+  Rows: 7
+  Columns: 7
   Board:
-  - Size: 6
+  - Size: 7
     Row:
-    - S
-    - Y
-    - H
-    - Y
-    - J
-    - G
-  - Size: 6
-    Row:
-    - C
-    - Z
-    - T
-    - T
-    - B
+    - A
+    - K
     - U
-  - Size: 6
-    Row:
-    - K
-    - N
-    - K
-    - C
-    - Y
-    - M
-  - Size: 6
-    Row:
-    - Q
-    - X
+    - Z
+    - F
+    - O
     - E
-    - W
-    - M
-    - D
-  - Size: 6
-    Row:
-    - S
-    - I
-    - J
-    - P
-    - D
-    - I
-  - Size: 6
+  - Size: 7
     Row:
     - W
-    - S
     - C
-    - G
+    - D
+    - U
+    - V
+    - D
+    - B
+  - Size: 7
+    Row:
+    - S
+    - S
+    - D
     - W
+    - T
+    - U
+    - K
+  - Size: 7
+    Row:
+    - O
     - Y
-  SearchWords: []
+    - K
+    - Z
+    - O
+    - N
+    - U
+  - Size: 7
+    Row:
+    - M
+    - O
+    - W
+    - T
+    - Q
+    - I
+    - S
+  - Size: 7
+    Row:
+    - E
+    - M
+    - A
+    - G
+    - F
+    - T
+    - A
+  - Size: 7
+    Row:
+    - W
+    - V
+    - Y
+    - N
+    - N
+    - Y
+    - Y
+  SearchWords:
+  - Word: AWSOME
+  - Word: GAME
+  - Word: UNITY
