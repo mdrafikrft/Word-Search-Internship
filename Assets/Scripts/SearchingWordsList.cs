@@ -60,7 +60,7 @@ public class SearchingWordsList : MonoBehaviour
         if (_wordsNumber % _columns > 0)
             _rows++;
         return true;
-        
+
     }
 
     private void CreateWordObjects()

@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 7898282807907502723}
   - component: {fileID: 3062827120008340362}
   - component: {fileID: 5703293779307283148}
-  - component: {fileID: 3830039342278080160}
+  - component: {fileID: 1507630592208315077}
   m_Layer: 5
   m_Name: SearchingWord
   m_TagString: Untagged
@@ -78,7 +78,7 @@ MonoBehaviour:
   m_FillOrigin: 0
   m_UseSpriteMesh: 0
   m_PixelsPerUnitMultiplier: 1
---- !u!114 &3830039342278080160
+--- !u!114 &1507630592208315077
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
